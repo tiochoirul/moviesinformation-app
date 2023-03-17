@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movies Information App</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="no_data">Empty data</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+
+    <string name="menu_favorite">Menu Favorite</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="detail_original_title">Original Title</string>
+    <string name="detail_release_date">Release Date</string>
+    <string name="detail_release_date_value">August 30, 2001</string>
+    <string name="detail_rating">Rating</string>
+    <string name="detail_rating_percent">7.8/10</string>
+    <string name="detail_overview">Overview</string>
+
+    <string name="link_image">"https://image.tmdb.org/t/p/original"</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="theme_header">Theme</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="choose_theme">Choose Theme</string>
+    <string name="abour_version">Version</string>
+    <string name="about_license">License</string>
+
+</resources>
