@@ -2,7 +2,7 @@
 
 [![Arifaizin](https://circleci.com/gh/arifaizin/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/arifaizin/MySimpleCleanArchitecture)
 
-This is the final submission to graduate from the Become an Android Developer Expert class organized by IDCampXdicoding. This is an Android application written in Kotlin that allows users to browse and search for information about movies. The app uses the TheMovieDb API to retrieve data about movies such as title, year, plot, and poster image. Users can save their favorite movies to a local database and access them later.
+This is the final submission to graduate from the Become an Android Developer Expert class organized by IDCampXdicoding. This is an Android application written in Kotlin that allows users to browse and search for information about movies. The app uses the <a href="https://developers.themoviedb.org/3">TheMovieDb API</a> to retrieve data about movies such as title, year, plot, and poster image. Users can save their favorite movies to a local database and access them later.
 
 ## Getting Started
 Instructions on how to get a copy of the project up and running on your local machine.
