@@ -4,6 +4,8 @@
 
 This is the final submission to graduate from the Become an Android Developer Expert class organized by IDCampXdicoding. This is an Android application written in Kotlin that allows users to browse and search for information about movies. The app uses the <a href="https://developers.themoviedb.org/3">TheMovieDb API</a> to retrieve data about movies such as title, year, plot, and poster image. Users can save their favorite movies to a local database and access them later.
 
+![MoviesInformationApp](https://user-images.githubusercontent.com/108212568/227822744-7a172053-853f-46b1-b416-0a4ddbfa8432.jpg)
+
 ## Getting Started
 Instructions on how to get a copy of the project up and running on your local machine.
 
